@@ -11,7 +11,7 @@ BlueChunk is a chunk loading optimizer built specifically for Paper and its fork
 
 BlueChunk does not replace or patch Paper's internals. It builds on Paper's own async chunk system and API, so it stays compatible across updates and works alongside your other plugins.
 
-⚠️ Warning: This plugin is still a work in progress and is not recommended for use on public servers. ⚠️
+⚠️ Warning: This plugin is still a work in progress and is not recommended for use on public servers with 1000+ players. ⚠️
 
 ## Features
 ### Already Added
